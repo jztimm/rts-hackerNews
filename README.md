@@ -20,6 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### Project Guide
 
 - Click the `Search` button to navigate to the `/search` page or the `History` button to navigate to the `/history` page.
+- Clicking on the `Hacker News` Logo at the top of any page will bring you back to the home page `/`
 
 - Since there is no persisted data or backend :
   - In the `/search`
