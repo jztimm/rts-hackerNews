@@ -28,7 +28,7 @@ const SearchPage = (props) => {
   // }
 
   const get100Articles = async MainURL => {
-    const maxArticles = 15;
+    const maxArticles = 10;
     
     for (let i = 1; i <= maxArticles; i++) {
       if (i !== 5 && i !== 26 && i !== 28 && i !== 29 && i !== 40 && i !== 48) {
