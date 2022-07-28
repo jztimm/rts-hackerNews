@@ -1,5 +1,8 @@
-# First npm install
+# Project Guide
 
+## First
+
+### `npm install`
 Since there is no persisted data or backend,
 - To navigate to the articles, middle click to open a new tab
 - Left click ad you normally would to "Open" the article. This will notate that you "went" to view that article from search 
